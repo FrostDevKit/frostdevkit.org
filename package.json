@@ -8,7 +8,7 @@
   "homepage": "https://payjoindevkit.org",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/payjoindevkit/payjoindevkit.org.git"
+    "url": "git+https://github.com/payjoindevkit/frostdevkit.org.git"
   },
   "keywords": [
     "bitcoin",
