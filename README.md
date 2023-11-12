@@ -1,4 +1,4 @@
-# Payjoin Dev Kit Documentation
+# Frost Dev Kit Documentation
 
 [![Build Status](https://github.com/payjoin/payjoindevkit.org/workflows/Build/badge.svg)](https://github.com/payjoin/payjoindevkit.org/actions?query=workflow%3A%22Build%22)
 
