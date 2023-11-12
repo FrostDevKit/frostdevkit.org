@@ -1,14 +1,14 @@
 {
-  "name": "payjoindevkit.org",
+  "name": "frostdevkit.org",
   "version": "0.0.1",
-  "description": "Payjoin Dev Kit Documentation",
+  "description": "Frost Dev Kit Documentation",
   "author": "Lightning Dev Kit",
   "license": "MIT",
   "bugs": "https://github.com/payjoin/payjoindevkit.org/issues",
-  "homepage": "https://payjoindevkit.org",
+  "homepage": "https://frostdevkit.github.org",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/payjoindevkit/frostdevkit.org.git"
+    "url": "git+https://github.com/frostdevkit/frostdevkit.org.git"
   },
   "keywords": [
     "bitcoin",
